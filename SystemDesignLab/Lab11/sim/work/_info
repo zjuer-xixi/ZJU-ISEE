@@ -1,0 +1,205 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1716452225
+VDI^hFcU[K2=[i3BlYR5oj1
+04 15 4 work button_press_tb fast 0
+=1-2c6dc1a1395c-664efb81-168-43fc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vbutton_press_tb
+Z1 !s110 1716452147
+!i10b 1
+!s100 BNIBO=QI^JGVZoC@VCFlD0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+If2MFmDJDS;bCX5IXF?`AN1
+Z3 dD:/StudyRepository/SystemDesignLab/Lab11/sim
+w1708389391
+8D:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit_tb.v
+FD:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit_tb.v
+!i122 1
+L0 3 47
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1716452147.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit_tb.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vbutton_unit
+R1
+!i10b 1
+!s100 RHHP;VXcU@jETC>6CMLW]0
+R2
+I0oa]^bhJjFoEed:j;bX?60
+R3
+w1715325600
+8D:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit.v
+FD:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit.v
+!i122 0
+Z8 L0 1 13
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit.v|
+!i113 0
+R7
+R0
+vcontrol
+R1
+!i10b 1
+!s100 R2O@P54=J_GWHjU@?az^m1
+R2
+I6>_[AUd4<4A6Ob;3oSjR:2
+R3
+w1715327026
+8D:/StudyRepository/SystemDesignLab/Lab11/src/Controller.v
+FD:/StudyRepository/SystemDesignLab/Lab11/src/Controller.v
+!i122 2
+L0 1 22
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/StudyRepository/SystemDesignLab/Lab11/src/Controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab11/src/Controller.v|
+!i113 0
+R7
+R0
+vcounter_n
+Z9 !s110 1716452148
+!i10b 1
+!s100 <KI=W`IGES>SLOkeP6Fm>2
+R2
+Iogfg`=Lkahn4=KmdHW@WR1
+R3
+w1715326135
+8D:/StudyRepository/SystemDesignLab/Lab11/src/Counter.v
+FD:/StudyRepository/SystemDesignLab/Lab11/src/Counter.v
+!i122 3
+L0 1 18
+R4
+R5
+r1
+!s85 0
+31
+Z10 !s108 1716452148.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab11/src/Counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab11/src/Counter.v|
+!i113 0
+R7
+R0
+vdebouncer
+R9
+!i10b 1
+!s100 <Jh6;O6`L[?3I:XRZz^fD2
+R2
+Ia55ePghzUj_Q^Te^FUZdV2
+R3
+w1715325354
+8D:/StudyRepository/SystemDesignLab/Lab11/src/Debouncer.v
+FD:/StudyRepository/SystemDesignLab/Lab11/src/Debouncer.v
+!i122 5
+L0 1 17
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/StudyRepository/SystemDesignLab/Lab11/src/Debouncer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab11/src/Debouncer.v|
+!i113 0
+R7
+R0
+vdffr
+R9
+!i10b 1
+!s100 l3OY>E<cINGgaF?Aa66VJ2
+R2
+IW1e;`Q9185Pc[:oRQAi5B1
+R3
+w1715849175
+8D:/StudyRepository/SystemDesignLab/Lab11/src/D_FlipFlop.v
+FD:/StudyRepository/SystemDesignLab/Lab11/src/D_FlipFlop.v
+!i122 4
+R8
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/StudyRepository/SystemDesignLab/Lab11/src/D_FlipFlop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab11/src/D_FlipFlop.v|
+!i113 0
+R7
+R0
+vPWM
+R9
+!i10b 1
+!s100 3CB3:3=XT`S5@jme@c2J83
+R2
+I2Ji4SF]naEemfQ]Hm@7N52
+R3
+w1715851373
+8D:/StudyRepository/SystemDesignLab/Lab11/src/PWM.v
+FD:/StudyRepository/SystemDesignLab/Lab11/src/PWM.v
+!i122 6
+L0 1 11
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/StudyRepository/SystemDesignLab/Lab11/src/PWM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab11/src/PWM.v|
+!i113 0
+R7
+R0
+n@p@w@m
+vsynchronizer
+R9
+!i10b 1
+!s100 10gX>WkQ43`hEAZY?G_LV0
+R2
+IPG_b0@WRA8Uo?^aVfSLEo3
+R3
+w1715851563
+8D:/StudyRepository/SystemDesignLab/Lab11/src/Synchronizer.v
+FD:/StudyRepository/SystemDesignLab/Lab11/src/Synchronizer.v
+!i122 7
+R8
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/StudyRepository/SystemDesignLab/Lab11/src/Synchronizer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab11/src/Synchronizer.v|
+!i113 0
+R7
+R0

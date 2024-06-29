@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20160211">
+  <Objects>
+    <Object name="$DefaultShape$">
+      <LineSet lines="0 1 2 3 4 5 6 7 7 5 1 3 7 3 1 5 3 5 1 7" material="Default" points="-11.93000030518 -5.579999923706 -14.55000019073 -11.93000030518 -5.579999923706 2.700514793396 11.93000030518 -5.579999923706 -14.55000019073 11.93000030518 -5.579999923706 2.700514793396 11.93000030518 5.579999923706 -14.55000019073 11.93000030518 5.579999923706 2.700514793396 -11.93000030518 5.579999923706 -14.55000019073 -11.93000030518 5.579999923706 2.700514793396"/>
+    </Object>
+  </Objects>
+  <Materials>
+    <Material name="Default">
+      <Drawstyle color="0.5 0 0.5" linestrength="1" transparency="0"/>
+    </Material>
+  </Materials>
+</CSTAuxiliaryGeometry>

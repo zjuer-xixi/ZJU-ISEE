@@ -1,0 +1,158 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/StudyRepository/SystemDesignLab/Lab19/sim/mcu
+T_opt
+!s110 1718262515
+VJXk9n?La2dgFBg`SKOC>c2
+04 16 4 work song_reader_tb_v fast 0
+=1-2c6dc1a1395c-666a9af2-1b3-2c8c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vcounter_n
+Z1 !s110 1718262500
+!i10b 1
+!s100 aN_<<Z0ml[MWIi2^[VTn63
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ik^Z8MDC7XRmg^3mk_SR8S1
+Z3 dD:/StudyRepository/SystemDesignLab/Lab19/sim/song_reader
+w1717047407
+8D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/counter.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/counter.v
+!i122 24
+L0 1 20
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1718262500.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/counter.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vjudgment
+R1
+!i10b 1
+!s100 FjB1H5Ljm]hdRC1@Le?U51
+R2
+I9=OTkiLf:kF5Olk:]TNmQ0
+R3
+w1718262496
+8D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/judgment.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/judgment.v
+!i122 25
+L0 1 33
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/judgment.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/judgment.v|
+!i113 0
+R7
+R0
+vsong_reader
+R1
+!i10b 1
+!s100 Vo?58loMneS`SKVJ=bg<T3
+R2
+IVK[2DTaYGD9V[V?070LP:0
+R3
+w1718262213
+8D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader.v
+!i122 26
+L0 1 19
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader.v|
+!i113 0
+R7
+R0
+vsong_reader_control
+R1
+!i10b 1
+!s100 @R6JcId=jIEIG6EEFCXP[1
+R2
+I`:K_9>VOdODe]MHR1PfoP2
+R3
+w1718262276
+8D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_controller.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_controller.v
+!i122 27
+L0 1 36
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_controller.v|
+!i113 0
+R7
+R0
+vsong_reader_tb_v
+R1
+!i10b 1
+!s100 ]h]]g6PZc__gC0IVf[U421
+R2
+ICj87FF@kPSFF25ZOV3GNk3
+R3
+w1708389392
+8D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_tb.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_tb.v
+!i122 28
+L0 9 58
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_tb.v|
+!i113 0
+R7
+R0
+vsong_rom
+R1
+!i10b 1
+!s100 Ve:`kR1Jm[1?Y=FQV=k[20
+R2
+I?91Pf5DJ`dkh]cbDJ_;950
+R3
+w1716607938
+8D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_rom.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_rom.v
+!i122 29
+L0 6 147
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_rom.v|
+!i113 0
+R7
+R0

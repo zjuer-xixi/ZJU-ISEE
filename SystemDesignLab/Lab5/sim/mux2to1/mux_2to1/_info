@@ -1,0 +1,67 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1713596641
+VTZ_M=VIVV>a[CkObSO=kW1
+04 13 4 work mux_2to1_tb_v fast 0
+=1-2c6dc1a1395c-662368e1-a1-481c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+R0
+vmux_2to1
+Z2 !s110 1713599724
+!i10b 1
+!s100 44<>MYI7FmYzFDCM3EIMj0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+InRTaDGBGIC<cWC[V7RR7O2
+Z4 dD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/sim/mux2to1
+w1712383630
+8D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v
+FD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v
+!i122 4
+L0 2 16
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z7 !s108 1713599724.000000
+!s107 D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v|
+!s90 -reportprogress|300|-work|mux_2to1|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v|
+!i113 0
+Z8 o-work mux_2to1 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vmux_2to1_tb_v
+R2
+!i10b 1
+!s100 >1Dm?RgJU7fWz:OVLlc013
+R3
+IM3NPfd4f^9IgQDe?aPU0=0
+R4
+w1712383856
+8D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1_tb.v
+FD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1_tb.v
+!i122 5
+L0 2 30
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1_tb.v|
+!s90 -reportprogress|300|-work|mux_2to1|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1_tb.v|
+!i113 0
+R8
+R1

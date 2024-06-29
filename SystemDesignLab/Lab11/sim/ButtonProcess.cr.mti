@@ -1,0 +1,58 @@
+D:/StudyRepository/SystemDesignLab/Lab11/src/Debouncer.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab11/src/Debouncer.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module debouncer
+
+Top level modules:
+	debouncer
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab11/src/D_FlipFlop.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab11/src/D_FlipFlop.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module dffr
+
+Top level modules:
+	dffr
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab11/src/Controller.v {2 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab11/src/Controller.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module control
+** Warning: D:/StudyRepository/SystemDesignLab/Lab11/src/Controller.v(14): (vlog-2182) 'state' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	control
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab11/src/Counter.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab11/src/Counter.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module counter_n
+
+Top level modules:
+	counter_n
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab11/src/PWM.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab11/src/PWM.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module PWM
+
+Top level modules:
+	PWM
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module button_unit
+
+Top level modules:
+	button_unit
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit_tb.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab11/src/Button_process_unit_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module button_press_tb
+
+Top level modules:
+	button_press_tb
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab11/src/Synchronizer.v {1 {vlog -work work -vopt -stats=none {D:\StudyRepository\SystemDesignLab\Lab11\src\Synchronizer.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module synchronizer
+
+Top level modules:
+	synchronizer
+
+} {} {}}

@@ -1,0 +1,61 @@
+# Current time Sat Apr 20 15:25:17 2024
+# ModelSim SE Stack Trace
+# Program = vish
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = win64
+
+Exception c0000005 has occurred at address 5fc2ef4a. Traceback:
+# 0    0x5fc2ef4a: 'TkSetFocusWin + 0x36a'
+# 1    0x5fbcf90c: 'Tk_SetGrid + 0x2a7c'
+# 2    0x5fbd44b4: 'Tk_SetGrid + 0x7624'
+# 3    0x5fa17103: 'TclNRRunCallbacks + 0x63'
+# 4    0x1e490d9a: 'Itcl_EvalMemberCode + 0x3ba'
+# 5    0x1e491f5b: 'Itcl_ExecMethod + 0x23b'
+# 6    0x1e499a19: 'Itcl_EvalArgs + 0x1c9'
+# 7    0x1e494cf1: 'Itcl_HandleInstance + 0x2c1'
+# 8    0x5fa17103: 'TclNRRunCallbacks + 0x63'
+# 9    0x1e490d9a: 'Itcl_EvalMemberCode + 0x3ba'
+# 10   0x1e491f5b: 'Itcl_ExecMethod + 0x23b'
+# 11   0x1e499a19: 'Itcl_EvalArgs + 0x1c9'
+# 12   0x1e494cf1: 'Itcl_HandleInstance + 0x2c1'
+# 13   0x5fa17103: 'TclNRRunCallbacks + 0x63'
+# 14   0x1e490d9a: 'Itcl_EvalMemberCode + 0x3ba'
+# 15   0x1e491f5b: 'Itcl_ExecMethod + 0x23b'
+# 16   0x5fa17103: 'TclNRRunCallbacks + 0x63'
+# 17   0x1e490d9a: 'Itcl_EvalMemberCode + 0x3ba'
+# 18   0x1e491f5b: 'Itcl_ExecMethod + 0x23b'
+# 19   0x5fa17103: 'TclNRRunCallbacks + 0x63'
+# 20   0x1e490d9a: 'Itcl_EvalMemberCode + 0x3ba'
+# 21   0x1e491f5b: 'Itcl_ExecMethod + 0x23b'
+# 22   0x1e499a19: 'Itcl_EvalArgs + 0x1c9'
+# 23   0x1e494cf1: 'Itcl_HandleInstance + 0x2c1'
+# 24   0x5fa17103: 'TclNRRunCallbacks + 0x63'
+# 25   0x1e490d9a: 'Itcl_EvalMemberCode + 0x3ba'
+# 26   0x1e491f5b: 'Itcl_ExecMethod + 0x23b'
+# 27   0x1e499a19: 'Itcl_EvalArgs + 0x1c9'
+# 28   0x1e494cf1: 'Itcl_HandleInstance + 0x2c1'
+# 29   0x5fa17103: 'TclNRRunCallbacks + 0x63'
+# 30   0x1e490d9a: 'Itcl_EvalMemberCode + 0x3ba'
+# 31   0x1e491f5b: 'Itcl_ExecMethod + 0x23b'
+# 32   0x1e499a19: 'Itcl_EvalArgs + 0x1c9'
+# 33   0x1e494cf1: 'Itcl_HandleInstance + 0x2c1'
+# 34   0x5fa17103: 'TclNRRunCallbacks + 0x63'
+# 35   0x5fc73f1e: 'TkSetWindowMenuBar + 0x96e'
+# 36   0x5fbc3636: 'TkWinHandleMenuEvent + 0x486'
+# 37   0x5fbca058: 'TkpMakeMenuWindow + 0x6c8'
+# 38   0x31e68961: 'DispatchMessageW + 0x741'
+# 39   0x31e68421: 'DispatchMessageW + 0x201'
+# 40   0x5fb3369e: 'Tcl_WaitForEvent + 0x1ae'
+# 41   0x5faca9b3: 'Tcl_DoOneEvent + 0x153'
+# 42   0x5fc2aee5: 'Tk_MainLoop + 0x25'
+# 43   0x5fc6d282: 'Tk_MainEx + 0x932'
+# 44   0x40193fba: 'Mtirpc_Init + 0x23afa'
+# 45   0x40196947: 'Mtirpc_Init + 0x26487'
+# 46   0x407062af: 'Tclsqlite3_Init + 0x1b9bf'
+# 47   0x3354257d: 'BaseThreadInitThunk + 0x1d'
+# 48   0x33dcaa48: 'RtlUserThreadStart + 0x28'
+StackWalk failed 0
+# End of Stack Trace
+

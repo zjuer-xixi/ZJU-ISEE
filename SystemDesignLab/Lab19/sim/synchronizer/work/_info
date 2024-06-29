@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/StudyRepository/SystemDesignLab/Lab19/sim/counter
+T_opt
+!s110 1718416763
+Vc@JFV<XAiGd8TA<@zO5HI1
+04 8 4 work synch_tb fast 0
+=1-2c6dc1a1395c-666cf57b-1ae-47a8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vdffr
+Z1 !s110 1718416749
+!i10b 1
+!s100 l3OY>E<cINGgaF?Aa66VJ2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYQJbUGgl9Iz9[SAoeo0cA0
+Z3 dD:/StudyRepository/SystemDesignLab/Lab19/sim/synchronizer
+w1715849175
+8D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/dffr.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/dffr.v
+!i122 9
+L0 1 13
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1718416749.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/dffr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/dffr.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vsynch_tb
+R1
+!i10b 1
+!s100 >j:Z3mc^0Yj:gSV;OO6S72
+R2
+I4L4E39G3a]CgD?bDVbbi:3
+R3
+w1718416732
+8D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer_tb.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer_tb.v
+!i122 8
+L0 2 33
+R4
+R5
+r1
+!s85 0
+31
+Z7 !s108 1718416748.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer_tb.v|
+!i113 0
+R6
+R0
+vsynchronizer
+!s110 1718416748
+!i10b 1
+!s100 `PzXQ>ZA=;49IT9Q_=E950
+R2
+IGj7gPQ6UdjV1gVKM>MLWI0
+R3
+w1716640188
+8D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer.v
+!i122 7
+L0 1 10
+R4
+R5
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer.v|
+!i113 0
+R6
+R0

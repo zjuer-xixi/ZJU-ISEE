@@ -1,0 +1,2 @@
+PictureROM.v,verilog,xil_defaultlib,../../../../IPCore.srcs/sources_1/ip/PictureROM/sim/PictureROM.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

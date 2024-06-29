@@ -1,0 +1,62 @@
+D:/StudyRepository/SystemDesignLab/IPCore/src/TMDSencode_func_synth.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/IPCore/src/TMDSencode_func_synth.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module NumberCnt
+-- Compiling module NumberCnt_2
+-- Compiling module NumberCnt_3
+-- Compiling module NumberCnt_4
+-- Compiling module NumberCnt_5
+-- Compiling module NumberCnt_6
+-- Compiling module TMDSencode
+-- Compiling module encode
+-- Compiling module encode_0
+-- Compiling module encode_1
+-- Compiling module glbl
+
+Top level modules:
+	TMDSencode
+	glbl
+
+} {} {}} D:/StudyRepository/SystemDesignLab/IPCore/src/IPCore.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/IPCore/src/IPCore.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module IPCore
+
+Top level modules:
+	IPCore
+
+} {} {}} D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/PictureROM/PictureROM_sim_netlist.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/PictureROM/PictureROM_sim_netlist.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module PictureROM
+-- Compiling module PictureROM_dist_mem_gen_v8_0_13
+-- Compiling module PictureROM_dist_mem_gen_v8_0_13_synth
+-- Compiling module PictureROM_rom
+-- Compiling module glbl
+
+Top level modules:
+	PictureROM
+	glbl
+
+} {} {}} D:/StudyRepository/SystemDesignLab/IPCore/src/IPCore_tb.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/IPCore/src/IPCore_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module IPCore_tb
+
+Top level modules:
+	IPCore_tb
+
+} {} {}} D:/StudyRepository/SystemDesignLab/IPCore/src/syncGenarator.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/IPCore/src/syncGenarator.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module syncGenarator
+
+Top level modules:
+	syncGenarator
+
+} {} {}} D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module DCM_PLL
+-- Compiling module DCM_PLL_DCM_PLL_clk_wiz
+-- Compiling module glbl
+
+Top level modules:
+	DCM_PLL
+	glbl
+
+} {} {}}

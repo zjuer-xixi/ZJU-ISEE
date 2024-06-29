@@ -1,0 +1,67 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/sim/mux2to1
+T_opt
+!s110 1713596105
+VBhQ2jk7_@eaY437WHGhXU1
+04 7 4 work comp_tb fast 0
+=1-2c6dc1a1395c-662366c9-21f-1a78
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+R0
+vcomp
+Z2 !s110 1713599507
+!i10b 1
+!s100 K?6n_T6OfXZnU_MHlMW<A0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IDSaoWj8b?c6>e9_o`8jl61
+Z4 dD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/sim/comp
+w1713599200
+8D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v
+FD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v
+!i122 4
+L0 1 14
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z7 !s108 1713599507.000000
+!s107 D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v|
+!s90 -reportprogress|300|-work|comp|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v|
+!i113 0
+Z8 o-work comp -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vcomp_tb
+R2
+!i10b 1
+!s100 KC3Bik>@`=7_:em5cBXDh3
+R3
+IHlG<SRC4f8caca22^2>jB0
+R4
+w1713599184
+8D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp_tb.v
+FD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp_tb.v
+!i122 5
+L0 3 42
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp_tb.v|
+!s90 -reportprogress|300|-work|comp|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp_tb.v|
+!i113 0
+R8
+R1

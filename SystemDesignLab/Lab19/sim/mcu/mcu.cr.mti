@@ -1,0 +1,29 @@
+D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/counter.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/counter.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module counter_n
+
+Top level modules:
+	counter_n
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_controller.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_controller.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module mcu_control
+
+Top level modules:
+	mcu_control
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module mcu
+
+Top level modules:
+	mcu
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_tb.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module mcu_tb_v
+
+Top level modules:
+	mcu_tb_v
+
+} {} {}}

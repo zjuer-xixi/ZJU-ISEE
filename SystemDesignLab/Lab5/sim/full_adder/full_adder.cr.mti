@@ -1,0 +1,15 @@
+D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder_tb.v {1 {vlog -work full_adder -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module full_adder_tb_v
+
+Top level modules:
+	full_adder_tb_v
+
+} {} {}} D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder.v {1 {vlog -work full_adder -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}}

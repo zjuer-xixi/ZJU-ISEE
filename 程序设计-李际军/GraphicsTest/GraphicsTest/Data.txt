@@ -1,0 +1,28 @@
+01
+Hangzhou
+June
+1001r
+tour round the West Lake at 6.1 and visit ZJU at 6.2
+899
+Flase
+02
+Nanjing
+May
+1500r
+visit Nanjing Presidential Place at 5.21
+38
+True
+04
+Shanghai
+March
+2000r
+take you to Disneyland and the Oriental Pearl Tower
+133
+Flase
+05
+Guangzhou
+April
+4670r
+take you to eat all the Guangzhou delicacy
+0
+Flase

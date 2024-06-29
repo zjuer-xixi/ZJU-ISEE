@@ -1,0 +1,472 @@
+[Project]
+FileName=GraphicsTest.dev
+Name=GraphicsTest
+Type=0
+Ver=2
+ObjFiles=
+Includes=./include;"./interface file";"./function library"
+Libs=
+PrivateResource=
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=0
+Icon=
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=GraphicsTest.exe
+HostApplication=
+UseCustomMakefile=0
+CustomMakefile=
+CommandLine=
+Folders="function library",include,"interface file",libgraphics
+IncludeVersionInfo=0
+SupportXPThemes=0
+CompilerSet=0
+CompilerSettings=0000000000000000001000000
+UnitCount=42
+
+[VersionInfo]
+Major=1
+Minor=0
+Release=0
+Build=0
+LanguageID=1033
+CharsetID=1252
+CompanyName=
+FileVersion=1.0.0.0
+FileDescription=Developed using the Dev-C++ IDE
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+AutoIncBuildNr=0
+SyncProduct=1
+
+[Unit1]
+FileName=include\boolean.h
+CompileCpp=0
+Folder=include
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit2]
+FileName=include\exception.h
+CompileCpp=0
+Folder=include
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit3]
+FileName=include\extgraph.h
+CompileCpp=0
+Folder=include
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit4]
+FileName=include\gcalloc.h
+CompileCpp=0
+Folder=include
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit5]
+FileName=include\genlib.h
+CompileCpp=0
+Folder=include
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit6]
+FileName=include\graphics.h
+CompileCpp=0
+Folder=include
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit7]
+FileName=include\imgui.h
+CompileCpp=0
+Folder=include
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit8]
+FileName=include\linkedlist.h
+CompileCpp=0
+Folder=include
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit9]
+FileName=include\random.h
+CompileCpp=0
+Folder=include
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit10]
+FileName=include\simpio.h
+CompileCpp=0
+Folder=include
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit11]
+FileName=include\strlib.h
+CompileCpp=0
+Folder=include
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit12]
+FileName=libgraphics\exceptio.c
+CompileCpp=0
+Folder=libgraphics
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit13]
+FileName=libgraphics\genlib.c
+CompileCpp=0
+Folder=libgraphics
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit14]
+FileName=libgraphics\graphics.c
+CompileCpp=0
+Folder=libgraphics
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit15]
+FileName=libgraphics\imgui.c
+CompileCpp=0
+Folder=libgraphics
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit16]
+FileName=libgraphics\linkedlist.c
+CompileCpp=0
+Folder=libgraphics
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit17]
+FileName=libgraphics\random.c
+CompileCpp=0
+Folder=libgraphics
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit18]
+FileName=libgraphics\simpio.c
+CompileCpp=0
+Folder=libgraphics
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit19]
+FileName=libgraphics\strlib.c
+CompileCpp=0
+Folder=libgraphics
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit20]
+FileName=MainTest.c
+CompileCpp=0
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit23]
+FileName=interface file\interface1.c
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit21]
+FileName=interface file\interface0.c
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit22]
+FileName=interface file\interface0.h
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit24]
+FileName=interface file\interface1.h
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit25]
+FileName=interface file\interface2.c
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit26]
+FileName=interface file\interface2.h
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit27]
+FileName=interface file\interface3.c
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit28]
+FileName=interface file\interface3.h
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit30]
+FileName=interface file\interface4.h
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit29]
+FileName=interface file\interface4.c
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit31]
+FileName=interface file\interface5.c
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit32]
+FileName=interface file\interface5.h
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit33]
+FileName=interface file\interface6.c
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit34]
+FileName=interface file\interface6.h
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit35]
+FileName=interface file\interface7.c
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit36]
+FileName=interface file\interface7.h
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit37]
+FileName=interface file\interface8.c
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit38]
+FileName=interface file\interface8.h
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit39]
+FileName=interface file\interface9.c
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit40]
+FileName=interface file\interface9.h
+CompileCpp=0
+Folder=interface file
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit41]
+FileName=function library\FunctionLib.c
+CompileCpp=0
+Folder=function library
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit42]
+FileName=function library\FunctionLib.h
+CompileCpp=0
+Folder=function library
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+

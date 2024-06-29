@@ -1,0 +1,231 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Mar 14 16:12:09 2024
+# Process ID: 18664
+# Current directory: D:/StudyRepository/SystemDesignLab/FlowingWaterLight/vivado/FlowingWaterLight.runs/synth_1
+# Command line: vivado.exe -log FlowingWaterLight.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FlowingWaterLight.tcl
+# Log file: D:/StudyRepository/SystemDesignLab/FlowingWaterLight/vivado/FlowingWaterLight.runs/synth_1/FlowingWaterLight.vds
+# Journal file: D:/StudyRepository/SystemDesignLab/FlowingWaterLight/vivado/FlowingWaterLight.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source FlowingWaterLight.tcl -notrace
+Command: synth_design -top FlowingWaterLight -part xc7a200tfbg484-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a200t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a200t'
+INFO: [Device 21-403] Loading part xc7a200tfbg484-1
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 2808
+WARNING: [Synth 8-1935] empty port in module declaration [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/counter_up_down.v:6]
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:02 ; elapsed = 00:00:04 . Memory (MB): peak = 1031.793 ; gain = 0.000
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'FlowingWaterLight' [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/FlowingWaterLight.v:1]
+	Parameter sim bound to: 0 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'counter_n' [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/counter_n.v:5]
+	Parameter n bound to: 50000000 - type: integer 
+	Parameter counter_bits bound to: 26 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'counter_n' (1#1) [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/counter_n.v:5]
+INFO: [Synth 8-6157] synthesizing module 'counter_up_dn' [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/counter_up_down.v:6]
+	Parameter counter_bits bound to: 3 - type: integer 
+WARNING: [Synth 8-308] ignoring empty port [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/counter_up_down.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'counter_up_dn' (2#1) [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/counter_up_down.v:6]
+WARNING: [Synth 8-7023] instance 'counter_up_dn_inst' of module 'counter_up_dn' has 6 connections declared, but only 5 given [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/FlowingWaterLight.v:14]
+INFO: [Synth 8-6157] synthesizing module 'decode' [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/decode.v:4]
+INFO: [Synth 8-6155] done synthesizing module 'decode' (3#1) [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/decode.v:4]
+INFO: [Synth 8-6155] done synthesizing module 'FlowingWaterLight' (4#1) [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/FlowingWaterLight.v:1]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:02 ; elapsed = 00:00:05 . Memory (MB): peak = 1031.793 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:02 ; elapsed = 00:00:05 . Memory (MB): peak = 1031.793 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:02 ; elapsed = 00:00:05 . Memory (MB): peak = 1031.793 ; gain = 0.000
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1031.793 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/FlowingWaterLight.xdc]
+Finished Parsing XDC File [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/FlowingWaterLight.xdc]
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [D:/StudyRepository/SystemDesignLab/FlowingWaterLight/src/FlowingWaterLight.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/FlowingWaterLight_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/FlowingWaterLight_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1076.523 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.002 . Memory (MB): peak = 1076.523 ; gain = 0.000
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:05 ; elapsed = 00:00:11 . Memory (MB): peak = 1076.523 ; gain = 44.730
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a200tfbg484-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:05 ; elapsed = 00:00:11 . Memory (MB): peak = 1076.523 ; gain = 44.730
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:05 ; elapsed = 00:00:11 . Memory (MB): peak = 1076.523 ; gain = 44.730
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:05 ; elapsed = 00:00:11 . Memory (MB): peak = 1076.523 ; gain = 44.730
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input   26 Bit       Adders := 1     
+	   2 Input    3 Bit       Adders := 1     
++---Registers : 
+	               26 Bit    Registers := 1     
+	                3 Bit    Registers := 1     
++---Muxes : 
+	   2 Input   26 Bit        Muxes := 1     
+	   8 Input    8 Bit        Muxes := 1     
+	   2 Input    2 Bit        Muxes := 1     
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 740 (col length:100)
+BRAMs: 730 (col length: RAMB18 100 RAMB36 50)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:06 ; elapsed = 00:00:12 . Memory (MB): peak = 1076.523 ; gain = 44.730
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:08 ; elapsed = 00:00:18 . Memory (MB): peak = 1076.523 ; gain = 44.730
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:08 ; elapsed = 00:00:18 . Memory (MB): peak = 1091.145 ; gain = 59.352
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:08 ; elapsed = 00:00:18 . Memory (MB): peak = 1091.969 ; gain = 60.176
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:10 ; elapsed = 00:00:21 . Memory (MB): peak = 1098.766 ; gain = 66.973
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:10 ; elapsed = 00:00:21 . Memory (MB): peak = 1098.766 ; gain = 66.973
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:10 ; elapsed = 00:00:21 . Memory (MB): peak = 1098.766 ; gain = 66.973
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:10 ; elapsed = 00:00:21 . Memory (MB): peak = 1098.766 ; gain = 66.973
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:10 ; elapsed = 00:00:21 . Memory (MB): peak = 1098.766 ; gain = 66.973
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:10 ; elapsed = 00:00:21 . Memory (MB): peak = 1098.766 ; gain = 66.973
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+-------+------+
+|      |Cell   |Count |
++------+-------+------+
+|1     |BUFG   |     1|
+|2     |CARRY4 |     7|
+|3     |LUT1   |     1|
+|4     |LUT3   |     9|
+|5     |LUT4   |     5|
+|6     |LUT5   |     1|
+|7     |LUT6   |     3|
+|8     |FDRE   |    29|
+|9     |IBUF   |     3|
+|10    |OBUF   |     8|
++------+-------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:10 ; elapsed = 00:00:21 . Memory (MB): peak = 1098.766 ; gain = 66.973
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 0 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:07 ; elapsed = 00:00:19 . Memory (MB): peak = 1098.766 ; gain = 22.242
+Synthesis Optimization Complete : Time (s): cpu = 00:00:10 ; elapsed = 00:00:21 . Memory (MB): peak = 1098.766 ; gain = 66.973
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1110.832 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 7 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1114.379 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+INFO: [Common 17-83] Releasing license: Synthesis
+23 Infos, 3 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:12 ; elapsed = 00:00:34 . Memory (MB): peak = 1114.379 ; gain = 82.586
+INFO: [Common 17-1381] The checkpoint 'D:/StudyRepository/SystemDesignLab/FlowingWaterLight/vivado/FlowingWaterLight.runs/synth_1/FlowingWaterLight.dcp' has been generated.
+INFO: [runtcl-4] Executing : report_utilization -file FlowingWaterLight_utilization_synth.rpt -pb FlowingWaterLight_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Thu Mar 14 16:12:46 2024...

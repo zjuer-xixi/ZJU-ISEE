@@ -1,0 +1,457 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/StudyRepository/SystemDesignLab/Lab19/sim/note_player
+T_opt
+!s110 1718380786
+V6NRdI03gQ[4>bBYAfToQ]3
+04 17 4 work music_player_tb_v fast 0
+=1-2c6dc1a1395c-666c68f1-46-4208
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vaddr_process
+Z1 !s110 1718380767
+!i10b 1
+!s100 VJj]9nNz>=hUP5PV1SV3Q2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IaCC6511B@m^YLShCJWYNc2
+Z3 dD:/StudyRepository/SystemDesignLab/Lab19/sim/music_player
+w1715924543
+8D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/addr_process.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/addr_process.v
+!i122 189
+Z4 L0 1 13
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z7 !s108 1718380767.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/addr_process.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/addr_process.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vcounter_n
+Z9 !s110 1718380766
+!i10b 1
+!s100 aN_<<Z0ml[MWIi2^[VTn63
+R2
+IFUjo3TJf9OVGCd6>:URi71
+R3
+w1717049478
+8D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v
+!i122 178
+L0 1 20
+R5
+R6
+r1
+!s85 0
+31
+Z10 !s108 1718380766.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v|
+!i113 0
+R8
+R0
+vdds
+R1
+!i10b 1
+!s100 _odJDf=9iS^GTazZMlQlj0
+R2
+IMzI>T0?XGhIM>VFkCKgEh3
+R3
+w1715925024
+8D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v
+!i122 190
+Z11 L0 1 33
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v|
+!i113 0
+R8
+R0
+vdffr
+R1
+!i10b 1
+!s100 l3OY>E<cINGgaF?Aa66VJ2
+R2
+IYGJhPfnaWdYYa:l83XlWY0
+R3
+w1715849175
+8D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v
+!i122 191
+R4
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v|
+!i113 0
+R8
+R0
+vfrequency_rom
+R1
+!i10b 1
+!s100 d79zAT]YCBO9F=7hXm5Ja3
+R2
+IRfDWSXK:<7;Bbi4iF7=LE2
+R3
+w1716643399
+8D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/frequency_rom.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/note_player/frequency_rom.v
+!i122 186
+L0 1 81
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/frequency_rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/frequency_rom.v|
+!i113 0
+R8
+R0
+vfull_adder
+R1
+!i10b 1
+!s100 :i_aSQmJcl^`gc_[g_HRT0
+R2
+IH<G>=FohZZGz<;EYNY<?c3
+R3
+w1715925226
+8D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/full_adder.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/full_adder.v
+!i122 192
+L0 2 10
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/full_adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/full_adder.v|
+!i113 0
+R8
+R0
+vjudgment
+Z12 !s110 1718380768
+!i10b 1
+!s100 FjB1H5Ljm]hdRC1@Le?U51
+R2
+I9=OTkiLf:kF5Olk:]TNmQ0
+R3
+w1718262496
+8D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/judgment.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/judgment.v
+!i122 194
+R11
+R5
+R6
+r1
+!s85 0
+31
+Z13 !s108 1718380768.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/judgment.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/judgment.v|
+!i113 0
+R8
+R0
+vmcu
+R9
+!i10b 1
+!s100 7b9KB>He]ZhzJK]z`b`@h2
+R2
+I@INXda0i;@zm80SzHomYW0
+R3
+w1718380736
+8D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/mcu.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/music_player/mcu.v
+!i122 179
+L0 1 34
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/mcu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/mcu.v|
+!i113 0
+R8
+R0
+vmcu_control
+R1
+!i10b 1
+!s100 QOJ>@CQFFk`@iRLWe1NQm2
+R2
+IRn[_a?^aO41;7MgU@>0]60
+R3
+w1717776049
+8D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_controller.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_controller.v
+!i122 184
+L0 1 51
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_controller.v|
+!i113 0
+R8
+R0
+vmusic_player
+R9
+!i10b 1
+!s100 0[z:^`fD2P^60O_cHVVG42
+R2
+IUgeS?G=n3:Bkn3kG[d^0H3
+R3
+w1716800243
+8D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player.v
+!i122 180
+Z14 L0 1 17
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player.v|
+!i113 0
+R8
+R0
+vmusic_player_tb_v
+R9
+!i10b 1
+!s100 cZi6B<^1<j>5PKW8hJiaT3
+R2
+IHoN[4fGU4_FZlBR1Z0<:P0
+R3
+w1716792989
+8D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v
+!i122 181
+L0 8 50
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v|
+!i113 0
+R8
+R0
+vnote_player
+R1
+!i10b 1
+!s100 >dOZ?RSeG7:AV=186_^0^2
+R2
+I[GfBhJWn92?OLQc=WmSK23
+R3
+w1718329370
+8D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/note_player.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/note_player/note_player.v
+!i122 187
+L0 1 25
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/note_player.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/note_player.v|
+!i113 0
+R8
+R0
+vnote_player_control
+R1
+!i10b 1
+!s100 340>7oU?f=GGG1Q:RA94b0
+R2
+I2:^IKZ:D4RSoIM3imUke>2
+R3
+w1718328890
+8D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/note_player_controller.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/note_player/note_player_controller.v
+!i122 188
+L0 1 27
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/note_player_controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/note_player_controller.v|
+!i113 0
+R8
+R0
+vsine_rom
+R12
+!i10b 1
+!s100 Oo2_AQg;BBidC8d4WB`GA3
+R2
+Iaim`X9CRK1NnaU@I:^OD33
+R3
+w1716644774
+8D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/sine_rom.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/sine_rom.v
+!i122 193
+L0 1 1032
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/sine_rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/sine_rom.v|
+!i113 0
+R8
+R0
+vsong_reader
+R12
+!i10b 1
+!s100 Vo?58loMneS`SKVJ=bg<T3
+R2
+IVK[2DTaYGD9V[V?070LP:0
+R3
+w1718262213
+8D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader.v
+!i122 195
+L0 1 19
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader.v|
+!i113 0
+R8
+R0
+vsong_reader_control
+R12
+!i10b 1
+!s100 @R6JcId=jIEIG6EEFCXP[1
+R2
+I`:K_9>VOdODe]MHR1PfoP2
+R3
+w1718262276
+8D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_controller.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_controller.v
+!i122 196
+L0 1 36
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader_controller.v|
+!i113 0
+R8
+R0
+vsong_rom
+R12
+!i10b 1
+!s100 Ve:`kR1Jm[1?Y=FQV=k[20
+R2
+I?91Pf5DJ`dkh]cbDJ_;950
+R3
+w1716607938
+8D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_rom.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_rom.v
+!i122 197
+L0 6 147
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_rom.v|
+!i113 0
+R8
+R0
+vsynchronizer
+R9
+!i10b 1
+!s100 `PzXQ>ZA=;49IT9Q_=E950
+R2
+Ifgi@3K_DZ<S]:<AjDR5J20
+R3
+w1716640188
+8D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v
+!i122 183
+L0 1 10
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v|
+!i113 0
+R8
+R0
+vtimer
+R1
+!i10b 1
+!s100 D^HEd7A=_h_7Qdnhl^^gF1
+R2
+I2^^VUW@QjCJP1E`GdIoc>3
+R3
+w1717049154
+8D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/beat_timer.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/note_player/beat_timer.v
+!i122 185
+R14
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/beat_timer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/beat_timer.v|
+!i113 0
+R8
+R0

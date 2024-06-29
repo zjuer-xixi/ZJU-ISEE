@@ -1,0 +1,16 @@
+module ModeComparator(a, b, m, y);
+    parameter n = 8;
+    input[n-1:0] a, b;
+    input m;
+    output[n-1:0] y;
+
+    wire agb;
+    comp #(.n(8))comp_inst(.a(a), .b(b), .agb(agb), .aeb(), .alb());
+
+    wire addr;
+    XNOR_gate #(.n(1))xnor_gate(.out(addr), .in0(agb), .in1(m));
+
+    wire[7:0] max, min;
+    mux_2to1 #(.n(8))mux(.out(y), .in0(a), .in1(b), .addr(addr));
+
+endmodule

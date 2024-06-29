@@ -1,0 +1,112 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/StudyRepository/SystemDesignLab/Lab19/sim/mcu
+T_opt
+!s110 1717776417
+V8edMfULWUGicA[cTR;blG1
+04 8 4 work mcu_tb_v fast 0
+=1-2c6dc1a1395c-66633020-261-42b4
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vcounter_n
+Z2 !s110 1717776393
+!i10b 1
+!s100 aN_<<Z0ml[MWIi2^[VTn63
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMjZQg2QWl`82Z8h8<4gUg2
+R0
+w1717046510
+8D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/counter.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/mcu/counter.v
+!i122 0
+L0 1 20
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1717776392.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/counter.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vmcu
+R2
+!i10b 1
+!s100 7b9KB>He]ZhzJK]z`b`@h2
+R3
+IHmf2ch[EXB`99djXjg<dY0
+R0
+w1717776060
+8D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu.v
+!i122 1
+L0 1 34
+R4
+R5
+r1
+!s85 0
+31
+Z7 !s108 1717776393.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu.v|
+!i113 0
+R6
+R1
+vmcu_control
+R2
+!i10b 1
+!s100 QOJ>@CQFFk`@iRLWe1NQm2
+R3
+IRn[_a?^aO41;7MgU@>0]60
+R0
+w1717776049
+8D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_controller.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_controller.v
+!i122 2
+L0 1 51
+R4
+R5
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_controller.v|
+!i113 0
+R6
+R1
+vmcu_tb_v
+R2
+!i10b 1
+!s100 `hn@QJQ@MZQACA2N^1oMF1
+R3
+IV>?_ZN63DbFNA7>eH64lO2
+R0
+w1716537233
+8D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_tb.v
+FD:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_tb.v
+!i122 3
+L0 9 62
+R4
+R5
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab19/src/mcu/mcu_tb.v|
+!i113 0
+R6
+R1

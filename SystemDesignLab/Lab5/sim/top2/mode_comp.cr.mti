@@ -1,0 +1,29 @@
+D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ModeComparator
+
+Top level modules:
+	ModeComparator
+
+} {} {}} D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comp
+
+Top level modules:
+	comp
+
+} {} {}} D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}} D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator_tb.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ModeComparator_tb
+
+Top level modules:
+	ModeComparator_tb
+
+} {} {}}

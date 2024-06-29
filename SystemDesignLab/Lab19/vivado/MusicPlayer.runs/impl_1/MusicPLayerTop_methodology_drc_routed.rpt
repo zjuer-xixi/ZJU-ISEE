@@ -1,0 +1,307 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.1 (win64) Build 2902540 Wed May 27 19:54:49 MDT 2020
+| Date         : Thu May 30 15:37:52 2024
+| Host         : zjuer-xixi running 64-bit major release  (build 9200)
+| Command      : report_methodology -file MusicPLayerTop_methodology_drc_routed.rpt -pb MusicPLayerTop_methodology_drc_routed.pb -rpx MusicPLayerTop_methodology_drc_routed.rpx
+| Design       : MusicPLayerTop
+| Device       : xc7a200tfbg484-1
+| Speed File   : -1
+| Design State : Fully Routed
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max violations: <unlimited>
+             Violations found: 50
++-----------+------------------+--------------------------------------------------------+------------+
+| Rule      | Severity         | Description                                            | Violations |
++-----------+------------------+--------------------------------------------------------+------------+
+| TIMING-17 | Critical Warning | Non-clocked sequential cell                            | 41         |
+| LUTAR-1   | Warning          | LUT drives async reset alert                           | 1          |
+| TIMING-18 | Warning          | Missing input or output delay                          | 6          |
+| XDCC-1    | Warning          | Scoped Clock constraint overwritten with the same name | 1          |
+| XDCC-7    | Warning          | Scoped Clock constraint overwritten on the same source | 1          |
++-----------+------------------+--------------------------------------------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+TIMING-17#1 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/CodecSetData_inst/FSM_sequential_state_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#2 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/CodecSetData_inst/FSM_sequential_state_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#3 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/CodecSetData_inst/q_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#4 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/CodecSetData_inst/q_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#5 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/CodecSetData_inst/q_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#6 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/CodecSetData_inst/q_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#7 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/CodecSetData_inst/q_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#8 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#9 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[10]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#10 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[12]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#11 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[13]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#12 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#13 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#14 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[3]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#15 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[4]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#16 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[5]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#17 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[6]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#18 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[7]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#19 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[8]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#20 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/FSM_onehot_state_reg[9]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#21 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/InsideScl_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#22 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/q_reg[0]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#23 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/q_reg[1]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#24 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/I2cInterface_inst/q_reg[2]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#25 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/ld_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#26 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[10]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#27 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[11]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#28 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[12]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#29 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[13]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#30 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[14]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#31 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[15]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#32 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[16]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#33 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[17]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#34 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[18]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#35 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[19]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#36 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[20]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#37 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[21]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#38 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[22]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#39 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[23]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#40 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[8]/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#41 Critical Warning
+Non-clocked sequential cell  
+The clock pin AudioInterface_inst/IIS_inst/shiftReg_1/q_reg[9]/C is not reached by a timing clock
+Related violations: <none>
+
+LUTAR-1#1 Warning
+LUT drives async reset alert  
+LUT cell music_player_inst/mcu_inst/mcu_control_inst/q[5]_i_2, with 2 or more inputs, drives asynchronous preset/clear pin(s) music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[0]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[10]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[11]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[12]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[13]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[14]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[15]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[16]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[17]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[18]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[19]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[1]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[20]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[21]/CLR,
+music_player_inst/note_player_inst/dds_inst/dffr1/q_reg[2]/CLR (the first 15 of 28 listed). The LUT may glitch and trigger an unexpected reset, even if it is a properly timed path.
+Related violations: <none>
+
+TIMING-18#1 Warning
+Missing input or output delay  
+An input delay is missing on next_button relative to clock(s) clk_1
+Related violations: <none>
+
+TIMING-18#2 Warning
+Missing input or output delay  
+An input delay is missing on play_button relative to clock(s) clk_1
+Related violations: <none>
+
+TIMING-18#3 Warning
+Missing input or output delay  
+An input delay is missing on reset relative to clock(s) clk_1
+Related violations: <none>
+
+TIMING-18#4 Warning
+Missing input or output delay  
+An output delay is missing on play relative to clock(s) clk_1
+Related violations: <none>
+
+TIMING-18#5 Warning
+Missing input or output delay  
+An output delay is missing on song[0] relative to clock(s) clk_1
+Related violations: <none>
+
+TIMING-18#6 Warning
+Missing input or output delay  
+An output delay is missing on song[1] relative to clock(s) clk_1
+Related violations: <none>
+
+XDCC-1#1 Warning
+Scoped Clock constraint overwritten with the same name  
+A new clock constraint create_clock overrides a previous scoped clock constraint with the same name. It is not recommended to override a scoped (typically an IP) clock constraint and could result in unexpected behaviors.
+New: create_clock -period 10.000 -name clk -waveform {0.000 5.000} -add (Source: D:/StudyRepository/SystemDesignLab/Lab19/src/MusicPlayerTop/MusicPlayer.xdc (Line: 1))
+Previous: create_clock -period 10.000 [get_ports clk] (Source: d:/StudyRepository/SystemDesignLab/Lab19/vivado/MusicPlayer.srcs/sources_1/ip/DCM_Audio/DCM_Audio.xdc (Line: 56))
+Related violations: <none>
+
+XDCC-7#1 Warning
+Scoped Clock constraint overwritten on the same source  
+A new clock constraint create_clock overrides a previous scoped clock constraint defined on the same source. It is not recommended to override a scoped (typically an IP) clock constraint and could result in unexpected behaviors.
+New: create_clock -period 10.000 -name clk_1 -waveform {0.000 5.000} [get_ports clk] (Source: D:/StudyRepository/SystemDesignLab/Lab19/src/MusicPlayerTop/MusicPlayer.xdc (Line: 37))
+Previous: create_clock -period 10.000 [get_ports clk] (Source: d:/StudyRepository/SystemDesignLab/Lab19/vivado/MusicPlayer.srcs/sources_1/ip/DCM_Audio/DCM_Audio.xdc (Line: 56))
+Related violations: <none>
+
+

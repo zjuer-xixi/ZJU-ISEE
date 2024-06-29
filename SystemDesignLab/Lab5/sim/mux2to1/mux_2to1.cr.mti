@@ -1,0 +1,15 @@
+D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v {1 {vlog -work mux_2to1 -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}} D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1_tb.v {1 {vlog -work mux_2to1 -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module mux_2to1_tb_v
+
+Top level modules:
+	mux_2to1_tb_v
+
+} {} {}}

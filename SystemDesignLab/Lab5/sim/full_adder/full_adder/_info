@@ -1,0 +1,66 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/sim/comp
+T_opt
+!s110 1713595157
+V_^a60kDCUOM[3P;DU^E^F0
+04 15 4 work full_adder_tb_v fast 0
+=1-2c6dc1a1395c-66236314-296-d5c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vfull_adder
+Z1 !s110 1712382507
+!i10b 1
+!s100 LB`C;@`=9l2OeMhU=0kAf2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<HfOcG;U2GN95^h8O?B3H2
+Z3 dD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/sim/full_adder
+w1710844151
+8D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder.v
+FD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder.v
+!i122 0
+L0 2 9
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1712382507.000000
+!s107 D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder.v|
+!s90 -reportprogress|300|-work|full_adder|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder.v|
+!i113 0
+Z7 o-work full_adder -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vfull_adder_tb_v
+R1
+!i10b 1
+!s100 lSOOVTi2?8AfM?2FXG42<1
+R2
+I]hjS_bdf@8DJH>E<jcNGG0
+R3
+w1708389394
+8D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder_tb.v
+FD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder_tb.v
+!i122 1
+L0 8 33
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder_tb.v|
+!s90 -reportprogress|300|-work|full_adder|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder_tb.v|
+!i113 0
+R7
+R0

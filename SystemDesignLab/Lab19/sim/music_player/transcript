@@ -1,0 +1,180 @@
+# Reading pref.tcl
+# //  ModelSim SE-64 2020.4 Oct 13 2020
+# //
+# //  Copyright 1991-2020 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# OpenFile D:/StudyRepository/SystemDesignLab/Lab19/sim/music_player/music_player.mpf
+# Loading project music_player
+vsim work._opt
+# vsim work._opt 
+# Start time: 12:10:31 on May 29,2024
+# ** Warning: (vsim-1963) Explicit invocation on automatically named optimized design "_opt" will not cause it to be locked.
+# Loading work.music_player_tb_v(fast)
+# Loading work.music_player(fast)
+# Loading work.mcu(fast)
+# Loading work.counter_n(fast)
+# Loading work.mcu_control(fast)
+# Loading work.song_reader(fast)
+# Loading work.counter_n(fast__1)
+# Loading work.song_reader_control(fast)
+# Loading work.song_rom(fast)
+# Loading work.judgment(fast)
+# Loading work.note_player(fast)
+# Loading work.dffr(fast)
+# Loading work.frequency_rom(fast)
+# Loading work.dds(fast)
+# Loading work.full_adder(fast)
+# Loading work.dffr(fast__1)
+# Loading work.addr_process(fast)
+# Loading work.sine_rom(fast)
+# Loading work.dffr(fast__2)
+# Loading work.dffr(fast__3)
+# Loading work.note_player_control(fast)
+# Loading work.timer(fast)
+# Loading work.synchronizer(fast)
+# Loading work.counter_n(fast__2)
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/song_reader_inst/conter_inst2 File: D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader.v Line: 10
+# ** Warning: (vsim-3015) [PCDPC] - Port size (22) does not match connection size (32) for port 'ci'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/full_adder.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/adder_inst File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 15
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/dffr2 File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 25
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/dffr2 File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 25
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/dff3 File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 29
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/dff4 File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 31
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/dff4 File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 31
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/synchronizer_inst/dffr1 File: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/synchronizer_inst/dffr1 File: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/synchronizer_inst/dffr2 File: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/synchronizer_inst/dffr2 File: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/counter_inst1 File: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player.v Line: 16
+add wave sim:/music_player_tb_v/*
+run -all
+# ** Note: $stop    : D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v(51)
+#    Time: 1200131 ns  Iteration: 0  Instance: /music_player_tb_v
+# Break in Module music_player_tb_v at D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v line 51
+# BKMARK_ERROR: Unknown client: .main_pane.source1
+add wave -position insertpoint /music_player_tb_v/uut/note_player_inst/duration_to_load
+add wave -position insertpoint /music_player_tb_v/uut/note_player_inst/beat
+add wave -position insertpoint /music_player_tb_v/uut/note_player_inst/sampling_pulse
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player.v(16): (vopt-2241) Connection width does not match width of port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v(1).
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v(9): (vopt-2241) Connection width does not match width of port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v(9): (vopt-2241) Connection width does not match width of port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v(8): (vopt-2241) Connection width does not match width of port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v(8): (vopt-2241) Connection width does not match width of port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v(31): (vopt-2241) Connection width does not match width of port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v(31): (vopt-2241) Connection width does not match width of port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v(29): (vopt-2241) Connection width does not match width of port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v(25): (vopt-2241) Connection width does not match width of port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v(25): (vopt-2241) Connection width does not match width of port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v(15): (vopt-2241) Connection width does not match width of port 'ci'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/full_adder.v(2).
+# ** Warning: D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader.v(10): (vopt-2241) Connection width does not match width of port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v(1).
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=12.
+# Loading work.music_player_tb_v(fast)
+# Warning in wave window restart: (vish-4014) No objects found matching '/music_player_tb_v/clk'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/music_player_tb_v/reset'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/music_player_tb_v/play_pause'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/music_player_tb_v/next'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/music_player_tb_v/NewFrame'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/music_player_tb_v/sample'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/music_player_tb_v/play'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/music_player_tb_v/song'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/music_player_tb_v/uut/note_player_inst/duration_to_load'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/music_player_tb_v/uut/note_player_inst/beat'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/music_player_tb_v/uut/note_player_inst/sampling_pulse'. 
+run -all
+# ** Note: $stop    : D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v(51)
+#    Time: 1200131 ns  Iteration: 0  Instance: /music_player_tb_v
+# Break at D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v line 51
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=12.
+# Loading work.music_player_tb_v(fast)
+add wave sim:/music_player_tb_v/*
+# ** UI-Msg: (vish-4014) No objects found matching '/music_player_tb_v/*'.
+vsim work._opt
+# End time: 12:13:29 on May 29,2024, Elapsed time: 0:02:58
+# Errors: 0, Warnings: 14
+# vsim work._opt 
+# Start time: 12:13:29 on May 29,2024
+# ** Warning: (vsim-1963) Explicit invocation on automatically named optimized design "_opt" will not cause it to be locked.
+# Loading work.music_player_tb_v(fast)
+# Loading work.music_player(fast)
+# Loading work.mcu(fast)
+# Loading work.counter_n(fast)
+# Loading work.mcu_control(fast)
+# Loading work.song_reader(fast)
+# Loading work.counter_n(fast__1)
+# Loading work.song_reader_control(fast)
+# Loading work.song_rom(fast)
+# Loading work.judgment(fast)
+# Loading work.note_player(fast)
+# Loading work.dffr(fast)
+# Loading work.frequency_rom(fast)
+# Loading work.dds(fast)
+# Loading work.full_adder(fast)
+# Loading work.dffr(fast__1)
+# Loading work.addr_process(fast)
+# Loading work.sine_rom(fast)
+# Loading work.dffr(fast__2)
+# Loading work.dffr(fast__3)
+# Loading work.note_player_control(fast)
+# Loading work.timer(fast)
+# Loading work.synchronizer(fast)
+# Loading work.counter_n(fast__2)
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/song_reader_inst/conter_inst2 File: D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_reader.v Line: 10
+# ** Warning: (vsim-3015) [PCDPC] - Port size (22) does not match connection size (32) for port 'ci'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/full_adder.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/adder_inst File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 15
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/dffr2 File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 25
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/dffr2 File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 25
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/dff3 File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 29
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/dff4 File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 31
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/note_player_inst/dds_inst/dff4 File: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v Line: 31
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/synchronizer_inst/dffr1 File: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/synchronizer_inst/dffr1 File: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/synchronizer_inst/dffr2 File: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'en'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/synchronizer_inst/dffr2 File: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'r'. The port definition is at: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /music_player_tb_v/uut/counter_inst1 File: D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player.v Line: 16
+add wave sim:/music_player_tb_v/*
+add wave -position insertpoint /music_player_tb_v/uut/note_player_inst/beat
+add wave -position insertpoint /music_player_tb_v/uut/note_player_inst/sampling_pulse
+add wave -position insertpoint /music_player_tb_v/uut/note_player_inst/duration_to_load
+run -all
+# ** Note: $stop    : D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v(51)
+#    Time: 1200131 ns  Iteration: 0  Instance: /music_player_tb_v
+# Break in Module music_player_tb_v at D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v line 51
+# End time: 12:26:24 on May 29,2024, Elapsed time: 0:12:55
+# Errors: 0, Warnings: 14

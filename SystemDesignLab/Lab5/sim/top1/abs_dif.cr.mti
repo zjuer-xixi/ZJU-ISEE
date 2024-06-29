@@ -1,0 +1,36 @@
+D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top1/abs_dif_tb.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top1/abs_dif_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module abs_dif_tb
+
+Top level modules:
+	abs_dif_tb
+
+} {} {}} D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comp
+
+Top level modules:
+	comp
+
+} {} {}} D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}} D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top1/abs_dif.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top1/abs_dif.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module abs_dif
+
+Top level modules:
+	abs_dif
+
+} {} {}} D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/full_adder/full_adder.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}}

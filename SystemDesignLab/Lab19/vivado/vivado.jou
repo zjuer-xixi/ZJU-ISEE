@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Jun  8 19:47:53 2024
+# Process ID: 2612
+# Current directory: D:/StudyRepository/SystemDesignLab/Lab19/vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1784 D:\StudyRepository\SystemDesignLab\Lab19\vivado\MusicPlayer.xpr
+# Log file: D:/StudyRepository/SystemDesignLab/Lab19/vivado/vivado.log
+# Journal file: D:/StudyRepository/SystemDesignLab/Lab19/vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/StudyRepository/SystemDesignLab/Lab19/vivado/MusicPlayer.xpr
+update_compile_order -fileset sources_1

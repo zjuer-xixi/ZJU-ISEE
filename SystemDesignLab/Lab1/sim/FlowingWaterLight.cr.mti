@@ -1,0 +1,36 @@
+D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/decode.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/decode.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module decode
+
+Top level modules:
+	decode
+
+} {} {}} D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FlowingWaterLight
+
+Top level modules:
+	FlowingWaterLight
+
+} {} {}} D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_n.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_n.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module counter_n
+
+Top level modules:
+	counter_n
+
+} {} {}} D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight_tb.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FlowingWateLight_tb
+
+Top level modules:
+	FlowingWateLight_tb
+
+} {} {}} D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_up_down.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_up_down.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module counter_up_dn
+
+Top level modules:
+	counter_up_dn
+
+} {} {}}

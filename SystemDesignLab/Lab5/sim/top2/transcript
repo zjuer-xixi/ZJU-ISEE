@@ -1,0 +1,38 @@
+# Reading pref.tcl
+# //  ModelSim SE-64 2020.4 Oct 13 2020
+# //
+# //  Copyright 1991-2020 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# OpenFile D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/sim/top2/mode_comp.mpf
+# Loading project mode_comp
+vsim work._opt
+# vsim work._opt 
+# Start time: 11:02:45 on Apr 21,2024
+# ** Warning: (vsim-1963) Explicit invocation on automatically named optimized design "_opt" will not cause it to be locked.
+# Loading work.ModeComparator_tb(fast)
+# Loading work.ModeComparator(fast)
+# Loading work.comp(fast)
+# Loading work.mux_2to1(fast)
+add wave sim:/ModeComparator_tb/*
+run -all
+# MAX(  33 , 122 )= 122
+# MAX( 167 ,   4 )= 167
+# MAX(  68 ,  68 )=  68
+# MIN(   5 ,   5 )=   5
+# MIN( 112 , 103 )= 103
+# MIN( 132 , 141 )= 132
+# ** Note: $stop    : D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator_tb.v(27)
+#    Time: 120 ps  Iteration: 0  Instance: /ModeComparator_tb
+# Break in Module ModeComparator_tb at D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator_tb.v line 27
+# Causality operation skipped due to absence of debug database file
+# End time: 11:21:01 on Apr 21,2024, Elapsed time: 0:18:16
+# Errors: 0, Warnings: 2

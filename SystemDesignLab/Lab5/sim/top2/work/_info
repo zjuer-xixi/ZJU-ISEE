@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/sim/xnor
+T_opt
+!s110 1713597481
+VZ95G19OmfmRbd]3U??4nc2
+04 17 4 work ModeComparator_tb fast 0
+=1-2c6dc1a1395c-66236c29-182-4570
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+R0
+vcomp
+Z2 !s110 1713599657
+!i10b 1
+!s100 K?6n_T6OfXZnU_MHlMW<A0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I8b1_oC:b_QbF_=6VFMcE<0
+Z4 dD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/sim/top2
+w1713599200
+8D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v
+FD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v
+!i122 20
+L0 1 14
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z7 !s108 1713599657.000000
+!s107 D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vModeComparator
+Z9 !s110 1713599656
+!i10b 1
+!s100 BNNP9Ml^W8HMO@@LUfz_V0
+R3
+I14EFTV<f:m`ZWPKTd_iJm1
+R4
+w1713598845
+8D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator.v
+FD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator.v
+!i122 18
+L0 1 19
+R5
+R6
+r1
+!s85 0
+31
+Z10 !s108 1713599656.000000
+!s107 D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator.v|
+!i113 0
+R8
+R1
+n@mode@comparator
+vModeComparator_tb
+R9
+!i10b 1
+!s100 Gob5?HHi>kVzani5O45@g3
+R3
+IB1BgMK8Hc]>`6HP;[`UfY3
+R4
+w1712385101
+8D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator_tb.v
+FD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator_tb.v
+!i122 19
+L0 2 28
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/top2/ModeComparator_tb.v|
+!i113 0
+R8
+R1
+n@mode@comparator_tb
+vmux_2to1
+R2
+!i10b 1
+!s100 44<>MYI7FmYzFDCM3EIMj0
+R3
+ImI@6B6d85KYLZKD>aPo9E0
+R4
+w1712383630
+8D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v
+FD:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v
+!i122 21
+L0 2 16
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/mux2to1/mux_2to1.v|
+!i113 0
+R8
+R1

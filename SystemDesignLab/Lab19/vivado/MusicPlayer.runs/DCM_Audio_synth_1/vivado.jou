@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu May 30 15:10:34 2024
+# Process ID: 17488
+# Current directory: D:/StudyRepository/SystemDesignLab/Lab19/vivado/MusicPlayer.runs/DCM_Audio_synth_1
+# Command line: vivado.exe -log DCM_Audio.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DCM_Audio.tcl
+# Log file: D:/StudyRepository/SystemDesignLab/Lab19/vivado/MusicPlayer.runs/DCM_Audio_synth_1/DCM_Audio.vds
+# Journal file: D:/StudyRepository/SystemDesignLab/Lab19/vivado/MusicPlayer.runs/DCM_Audio_synth_1\vivado.jou
+#-----------------------------------------------------------
+source DCM_Audio.tcl -notrace

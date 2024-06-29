@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a200tfbg484-1" LaunchTime="1710404170">
+  <File Type="OPT-HWDEF" Name="FlowingWaterLight.hwdef"/>
+  <File Type="ROUTE-BUS-SKEW" Name="FlowingWaterLight_bus_skew_routed.rpt"/>
+  <File Type="PA-DCP" Name="FlowingWaterLight.dcp"/>
+  <File Type="BITSTR-BMM" Name="FlowingWaterLight_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="FlowingWaterLight_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="FlowingWaterLight_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="FlowingWaterLight_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="FlowingWaterLight.tcl"/>
+  <File Type="OPT-TIMING" Name="FlowingWaterLight_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="FlowingWaterLight_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="FlowingWaterLight_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="FlowingWaterLight_reports.tcl"/>
+  <File Type="OPT-DRC" Name="FlowingWaterLight_drc_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="FlowingWaterLight_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="FlowingWaterLight_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="FlowingWaterLight_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="FlowingWaterLight_placed.dcp"/>
+  <File Type="PLACE-IO" Name="FlowingWaterLight_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="FlowingWaterLight_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="FlowingWaterLight_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="FlowingWaterLight_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="FlowingWaterLight_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="FlowingWaterLight_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="FlowingWaterLight_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="FlowingWaterLight_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="FlowingWaterLight_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="FlowingWaterLight.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="FlowingWaterLight_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="FlowingWaterLight_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="FlowingWaterLight_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="FlowingWaterLight.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="FlowingWaterLight_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="FlowingWaterLight_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="FlowingWaterLight_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="FlowingWaterLight_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="FlowingWaterLight_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="FlowingWaterLight_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="FlowingWaterLight_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="FlowingWaterLight.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="FlowingWaterLight_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="FlowingWaterLight_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="FlowingWaterLight_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="FlowingWaterLight_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="FlowingWaterLight_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="FlowingWaterLight_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="FlowingWaterLight_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="FlowingWaterLight_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="FlowingWaterLight_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="FlowingWaterLight_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="FlowingWaterLight_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="FlowingWaterLight_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="FlowingWaterLight_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="FlowingWaterLight_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="FlowingWaterLight_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="FlowingWaterLight_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="FlowingWaterLight_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="FlowingWaterLight_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="FlowingWaterLight_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="FlowingWaterLight_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="FlowingWaterLight.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="FlowingWaterLight_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="FlowingWaterLight.rbt"/>
+  <File Type="BITSTR-NKY" Name="FlowingWaterLight.nky"/>
+  <File Type="PDI-FILE" Name="FlowingWaterLight.pdi"/>
+  <File Type="RCFI_FILE" Name="FlowingWaterLight.rcfi"/>
+  <File Type="CFI_FILE" Name="FlowingWaterLight.cfi"/>
+  <File Type="RNPI_FILE" Name="FlowingWaterLight.rnpi"/>
+  <File Type="NPI_FILE" Name="FlowingWaterLight.npi"/>
+  <File Type="RBD_FILE" Name="FlowingWaterLight.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="FlowingWaterLight.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="FlowingWaterLight.sysdef"/>
+  <File Type="BG-BGN" Name="FlowingWaterLight.bgn"/>
+  <File Type="BG-DRC" Name="FlowingWaterLight.drc"/>
+  <File Type="RDI-RDI" Name="FlowingWaterLight.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../src/counter_n.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/counter_up_down.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/decode.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/FlowingWaterLight.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="FlowingWaterLight"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../src/FlowingWaterLight.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PPRDIR/../src/FlowingWaterLight.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

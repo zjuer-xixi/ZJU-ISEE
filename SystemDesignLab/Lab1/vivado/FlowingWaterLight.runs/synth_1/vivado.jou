@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Mar 14 16:12:09 2024
+# Process ID: 18664
+# Current directory: D:/StudyRepository/SystemDesignLab/FlowingWaterLight/vivado/FlowingWaterLight.runs/synth_1
+# Command line: vivado.exe -log FlowingWaterLight.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FlowingWaterLight.tcl
+# Log file: D:/StudyRepository/SystemDesignLab/FlowingWaterLight/vivado/FlowingWaterLight.runs/synth_1/FlowingWaterLight.vds
+# Journal file: D:/StudyRepository/SystemDesignLab/FlowingWaterLight/vivado/FlowingWaterLight.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source FlowingWaterLight.tcl -notrace

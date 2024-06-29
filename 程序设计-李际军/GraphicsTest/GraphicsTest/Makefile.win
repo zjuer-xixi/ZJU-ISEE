@@ -1,0 +1,85 @@
+# Project: GraphicsTest
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = libgraphics/exceptio.o libgraphics/genlib.o libgraphics/graphics.o libgraphics/imgui.o libgraphics/linkedlist.o libgraphics/random.o libgraphics/simpio.o libgraphics/strlib.o MainTest.o "interface\ file/interface0.o" "interface\ file/interface1.o" "interface\ file/interface2.o" "interface\ file/interface3.o" "interface\ file/interface4.o" "interface\ file/interface5.o" "interface\ file/interface6.o" "interface\ file/interface7.o" "interface\ file/interface8.o" "interface\ file/interface9.o" "function\ library/FunctionLib.o"
+LINKOBJ  = libgraphics/exceptio.o libgraphics/genlib.o libgraphics/graphics.o libgraphics/imgui.o libgraphics/linkedlist.o libgraphics/random.o libgraphics/simpio.o libgraphics/strlib.o MainTest.o "interface file/interface0.o" "interface file/interface1.o" "interface file/interface2.o" "interface file/interface3.o" "interface file/interface4.o" "interface file/interface5.o" "interface file/interface6.o" "interface file/interface7.o" "interface file/interface8.o" "interface file/interface9.o" "function library/FunctionLib.o"
+LIBS     = -L"D:/Download/AppGallery/Dev-Cpp/MinGW64/lib" -L"D:/Download/AppGallery/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -mwindows -g3
+INCS     = -I"D:/Download/AppGallery/Dev-Cpp/MinGW64/include" -I"D:/Download/AppGallery/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Download/AppGallery/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"./include" -I"./interface file" -I"./function library"
+CXXINCS  = -I"D:/Download/AppGallery/Dev-Cpp/MinGW64/include" -I"D:/Download/AppGallery/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Download/AppGallery/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Download/AppGallery/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"./include" -I"./interface file" -I"./function library"
+BIN      = GraphicsTest.exe
+CXXFLAGS = $(CXXINCS) -g3 -std=c++11
+CFLAGS   = $(INCS) -g3 -std=c++11
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+libgraphics/exceptio.o: libgraphics/exceptio.c
+	$(CC) -c libgraphics/exceptio.c -o libgraphics/exceptio.o $(CFLAGS)
+
+libgraphics/genlib.o: libgraphics/genlib.c
+	$(CC) -c libgraphics/genlib.c -o libgraphics/genlib.o $(CFLAGS)
+
+libgraphics/graphics.o: libgraphics/graphics.c
+	$(CC) -c libgraphics/graphics.c -o libgraphics/graphics.o $(CFLAGS)
+
+libgraphics/imgui.o: libgraphics/imgui.c
+	$(CC) -c libgraphics/imgui.c -o libgraphics/imgui.o $(CFLAGS)
+
+libgraphics/linkedlist.o: libgraphics/linkedlist.c
+	$(CC) -c libgraphics/linkedlist.c -o libgraphics/linkedlist.o $(CFLAGS)
+
+libgraphics/random.o: libgraphics/random.c
+	$(CC) -c libgraphics/random.c -o libgraphics/random.o $(CFLAGS)
+
+libgraphics/simpio.o: libgraphics/simpio.c
+	$(CC) -c libgraphics/simpio.c -o libgraphics/simpio.o $(CFLAGS)
+
+libgraphics/strlib.o: libgraphics/strlib.c
+	$(CC) -c libgraphics/strlib.c -o libgraphics/strlib.o $(CFLAGS)
+
+MainTest.o: MainTest.c
+	$(CC) -c MainTest.c -o MainTest.o $(CFLAGS)
+
+"interface\ file/interface0.o": interface\ file/interface0.c
+	$(CC) -c "interface file/interface0.c" -o "interface file/interface0.o" $(CFLAGS)
+
+"interface\ file/interface1.o": interface\ file/interface1.c
+	$(CC) -c "interface file/interface1.c" -o "interface file/interface1.o" $(CFLAGS)
+
+"interface\ file/interface2.o": interface\ file/interface2.c
+	$(CC) -c "interface file/interface2.c" -o "interface file/interface2.o" $(CFLAGS)
+
+"interface\ file/interface3.o": interface\ file/interface3.c
+	$(CC) -c "interface file/interface3.c" -o "interface file/interface3.o" $(CFLAGS)
+
+"interface\ file/interface4.o": interface\ file/interface4.c
+	$(CC) -c "interface file/interface4.c" -o "interface file/interface4.o" $(CFLAGS)
+
+"interface\ file/interface5.o": interface\ file/interface5.c
+	$(CC) -c "interface file/interface5.c" -o "interface file/interface5.o" $(CFLAGS)
+
+"interface\ file/interface6.o": interface\ file/interface6.c
+	$(CC) -c "interface file/interface6.c" -o "interface file/interface6.o" $(CFLAGS)
+
+"interface\ file/interface7.o": interface\ file/interface7.c
+	$(CC) -c "interface file/interface7.c" -o "interface file/interface7.o" $(CFLAGS)
+
+"interface\ file/interface8.o": interface\ file/interface8.c
+	$(CC) -c "interface file/interface8.c" -o "interface file/interface8.o" $(CFLAGS)
+
+"interface\ file/interface9.o": interface\ file/interface9.c
+	$(CC) -c "interface file/interface9.c" -o "interface file/interface9.o" $(CFLAGS)
+
+"function\ library/FunctionLib.o": function\ library/FunctionLib.c
+	$(CC) -c "function library/FunctionLib.c" -o "function library/FunctionLib.o" $(CFLAGS)

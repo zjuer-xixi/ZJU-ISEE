@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Apr 18 16:57:01 2024
+# Process ID: 13824
+# Current directory: D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.runs/impl_1
+# Command line: vivado.exe -log IPCore.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source IPCore.tcl -notrace
+# Log file: D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.runs/impl_1/IPCore.vdi
+# Journal file: D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source IPCore.tcl -notrace

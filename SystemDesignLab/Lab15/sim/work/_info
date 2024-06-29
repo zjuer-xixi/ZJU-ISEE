@@ -1,0 +1,158 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/StudyRepository/SystemDesignLab/Lab11/sim
+T_opt
+!s110 1715925245
+VRDWcNL;OJnDA<Q?SFbk]]0
+04 6 4 work dds_tb fast 0
+=1-2c6dc1a1395c-6646f0fd-209-f68
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vaddr_process
+Z1 !s110 1715925114
+!i10b 1
+!s100 VJj]9nNz>=hUP5PV1SV3Q2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I43anhBBXgcWd`nk9iGB[T1
+Z3 dD:/StudyRepository/SystemDesignLab/Lab15/sim
+w1715924543
+8D:/StudyRepository/SystemDesignLab/Lab15/src/addr_process.v
+FD:/StudyRepository/SystemDesignLab/Lab15/src/addr_process.v
+!i122 35
+Z4 L0 1 13
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1715925113.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab15/src/addr_process.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab15/src/addr_process.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vdds
+R1
+!i10b 1
+!s100 _odJDf=9iS^GTazZMlQlj0
+R2
+Id[hGjL[[nRY]BhLGUOY5H2
+R3
+w1715925024
+8D:/StudyRepository/SystemDesignLab/Lab15/src/dds.v
+FD:/StudyRepository/SystemDesignLab/Lab15/src/dds.v
+!i122 37
+L0 1 33
+R5
+R6
+r1
+!s85 0
+31
+Z8 !s108 1715925114.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab15/src/dds.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab15/src/dds.v|
+!i113 0
+R7
+R0
+vdds_tb
+R1
+!i10b 1
+!s100 gO=U]DYK6j5NODZhYXzDR0
+R2
+I8:IT?G;]N2oBQ:Ym2HjSX3
+R3
+w1708389392
+8D:/StudyRepository/SystemDesignLab/Lab15/src/dds_tb.v
+FD:/StudyRepository/SystemDesignLab/Lab15/src/dds_tb.v
+!i122 38
+L0 8 61
+R5
+R6
+r1
+!s85 0
+31
+R8
+!s107 D:/StudyRepository/SystemDesignLab/Lab15/src/dds_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab15/src/dds_tb.v|
+!i113 0
+R7
+R0
+vdffr
+R1
+!i10b 1
+!s100 l3OY>E<cINGgaF?Aa66VJ2
+R2
+I_SS=5ZmNQoMLn1]I;E?nO3
+R3
+w1715849175
+8D:/StudyRepository/SystemDesignLab/Lab15/src/D_FlipFlop.v
+FD:/StudyRepository/SystemDesignLab/Lab15/src/D_FlipFlop.v
+!i122 36
+R4
+R5
+R6
+r1
+!s85 0
+31
+R8
+!s107 D:/StudyRepository/SystemDesignLab/Lab15/src/D_FlipFlop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab15/src/D_FlipFlop.v|
+!i113 0
+R7
+R0
+vfull_adder
+!s110 1715925231
+!i10b 1
+!s100 :i_aSQmJcl^`gc_[g_HRT0
+R2
+I[C[@GzF95KGeTgH1UBVbh1
+R3
+w1715925226
+8D:/StudyRepository/SystemDesignLab/Lab15/src/full_adder.v
+FD:/StudyRepository/SystemDesignLab/Lab15/src/full_adder.v
+!i122 40
+L0 2 10
+R5
+R6
+r1
+!s85 0
+31
+!s108 1715925231.000000
+!s107 D:/StudyRepository/SystemDesignLab/Lab15/src/full_adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab15/src/full_adder.v|
+!i113 0
+R7
+R0
+vsine_rom
+R1
+!i10b 1
+!s100 Oo2_AQg;BBidC8d4WB`GA3
+R2
+I>78fn07:78RM@AVE06UkH2
+R3
+w1715848281
+8D:/StudyRepository/SystemDesignLab/Lab15/src/sine_rom.v
+FD:/StudyRepository/SystemDesignLab/Lab15/src/sine_rom.v
+!i122 39
+L0 1 1032
+R5
+R6
+r1
+!s85 0
+31
+R8
+!s107 D:/StudyRepository/SystemDesignLab/Lab15/src/sine_rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/Lab15/src/sine_rom.v|
+!i113 0
+R7
+R0

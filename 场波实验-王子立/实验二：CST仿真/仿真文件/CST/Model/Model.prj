@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+lzx79
+[Mesh Cells]
+885,625
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:cst.cst?bd9e01cc0f9565e9937704711fd5414e?7273:numberofparameters=7:port=1>mode=1>zre=0>zim=0?port=1>mode=2>zre=0>zim=0?port=1>mode=3>zre=0>zim=0?port=1>mode=4>zre=0>zim=0?port=1>mode=5>zre=0>zim=0:::l?de?dh?lambda?b?t?a
+[Comment]

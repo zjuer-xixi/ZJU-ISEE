@@ -1,0 +1,43 @@
+D:/StudyRepository/SystemDesignLab/Lab15/src/D_FlipFlop.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab15/src/D_FlipFlop.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module dffr
+
+Top level modules:
+	dffr
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab15/src/dds.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab15/src/dds.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module dds
+
+Top level modules:
+	dds
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab15/src/sine_rom.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab15/src/sine_rom.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module sine_rom
+
+Top level modules:
+	sine_rom
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab15/src/dds_tb.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab15/src/dds_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module dds_tb
+
+Top level modules:
+	dds_tb
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab15/src/addr_process.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab15/src/addr_process.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module addr_process
+
+Top level modules:
+	addr_process
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab15/src/full_adder.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab15/src/full_adder.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}}

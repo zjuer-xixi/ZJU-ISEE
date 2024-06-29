@@ -1,0 +1,542 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1713429523
+VH`=;2`BC?^4_heWQiWW=d3
+04 9 4 work IPCore_tb fast 0
+=1-2c6dc1a1395c-6620dc12-13e-12b4
+o-quiet -auto_acc_if_foreign -work work -L simprims_ver -L unisims_ver +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vclk_wiz_0
+Z1 !s110 1713429305
+!i10b 1
+!s100 gHCBeR=L4CFXG64U:JSS_2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Im5Te<bPFLI=;>:L`CM8Bz1
+Z3 dD:/StudyRepository/SystemDesignLab/IPCore/sim
+Z4 w1713429004
+Z5 8D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.v
+Z6 FD:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.v
+!i122 5
+Z7 L0 16 25
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z10 !s108 1713429305.000000
+Z11 !s107 D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.v|
+!i113 0
+Z13 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vclk_wiz_0_clk_wiz_0_clk_wiz
+R1
+!i10b 1
+!s100 P0noj7K<C:R`:>VVD_>[`1
+R2
+IHY;zJk]foYVJ;P7i^Xb@`2
+R3
+R4
+R5
+R6
+!i122 5
+Z14 L0 43 106
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R0
+vDCM_PLL
+Z15 !s110 1713429472
+!i10b 1
+!s100 e7COaTA>LU3G=WzDBRh1B1
+R2
+II6N^b9haiZYn;hm82>lf`2
+R3
+Z16 w1713429438
+Z17 8D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v
+Z18 FD:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v
+!i122 11
+R7
+R8
+R9
+r1
+!s85 0
+31
+Z19 !s108 1713429472.000000
+Z20 !s107 D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v|
+Z21 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/DCM_PLL/DCM_PLL_sim_netlist.v|
+!i113 0
+R13
+R0
+n@d@c@m_@p@l@l
+vDCM_PLL_DCM_PLL_clk_wiz
+R15
+!i10b 1
+!s100 @bHG34i`dXm]?c154]I;V2
+R2
+IY2f^MiB4i5j8jl`BFW88T0
+R3
+R16
+R17
+R18
+!i122 11
+R14
+R8
+R9
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R13
+R0
+n@d@c@m_@p@l@l_@d@c@m_@p@l@l_clk_wiz
+vencode
+Z22 !s110 1713429471
+!i10b 1
+!s100 ?=7CzhUYeSoP;=LE:;8eI0
+R2
+Ifc?F0g=La8`@Z^U]Q4DD61
+R3
+Z23 w1708389393
+Z24 8D:/StudyRepository/SystemDesignLab/IPCore/src/TMDSencode_func_synth.v
+Z25 FD:/StudyRepository/SystemDesignLab/IPCore/src/TMDSencode_func_synth.v
+!i122 9
+L0 4479 519
+R8
+R9
+r1
+!s85 0
+31
+Z26 !s108 1713429471.000000
+Z27 !s107 D:/StudyRepository/SystemDesignLab/IPCore/src/TMDSencode_func_synth.v|
+Z28 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/IPCore/src/TMDSencode_func_synth.v|
+!i113 0
+R13
+R0
+vencode_0
+R22
+!i10b 1
+!s100 Y;:G=3e;VV[Az95aN]]kK1
+R2
+I6bK_HKMS7iQmX^@aU7U;G1
+R3
+R23
+R24
+R25
+!i122 9
+L0 5000 512
+R8
+R9
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 0
+R13
+R0
+vencode_1
+R22
+!i10b 1
+!s100 no3H@0GT@GFjaBM]21l7L0
+R2
+IKom6S@UMFoDhZI;fjS>gN3
+R3
+R23
+R24
+R25
+!i122 9
+L0 5514 503
+R8
+R9
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 0
+R13
+R0
+vglbl
+R15
+!i10b 1
+!s100 d=;Km]8^ekIBRRMOnNSTC1
+R2
+ImL>0`2`K:Eog2^Bn>6>=A3
+R3
+R16
+R17
+R18
+!i122 11
+L0 153 78
+R8
+R9
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R13
+R0
+vIPCore
+R22
+!i10b 1
+!s100 n[`H7IWb7PA6oOBUR:d1b0
+R2
+IMM>RnSbF3n>5J]ZgDRlG_3
+R3
+w1713424497
+8D:/StudyRepository/SystemDesignLab/IPCore/src/IPCore.v
+FD:/StudyRepository/SystemDesignLab/IPCore/src/IPCore.v
+!i122 6
+L0 2 92
+R8
+R9
+r1
+!s85 0
+31
+R26
+!s107 D:/StudyRepository/SystemDesignLab/IPCore/src/IPCore.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/IPCore/src/IPCore.v|
+!i113 0
+R13
+R0
+n@i@p@core
+vIPCore_tb
+R22
+!i10b 1
+!s100 g=VAo?6Wk6kdKKk9DE@ja2
+R2
+Io^mS:XKBRoX8mJZ_5QS0H0
+R3
+R23
+8D:/StudyRepository/SystemDesignLab/IPCore/src/IPCore_tb.v
+FD:/StudyRepository/SystemDesignLab/IPCore/src/IPCore_tb.v
+!i122 7
+L0 2 79
+R8
+R9
+r1
+!s85 0
+31
+R26
+!s107 D:/StudyRepository/SystemDesignLab/IPCore/src/IPCore_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/IPCore/src/IPCore_tb.v|
+!i113 0
+R13
+R0
+n@i@p@core_tb
+vNumberCnt
+R22
+!i10b 1
+!s100 YHYXI]iIkGOoiUbbSD^D^3
+R2
+Ih>9TYQRBA2X0<Th;f[k7M0
+R3
+R23
+R24
+R25
+!i122 9
+L0 15 953
+R8
+R9
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 0
+R13
+R0
+n@number@cnt
+vNumberCnt_2
+R22
+!i10b 1
+!s100 bfCB:F7<k;<PcU:J>@:^f0
+R2
+IiPckUdL;U;cokXD08G@hR0
+R3
+R23
+R24
+R25
+!i122 9
+L0 970 261
+R8
+R9
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 0
+R13
+R0
+n@number@cnt_2
+vNumberCnt_3
+R22
+!i10b 1
+!s100 9F;BCLkE0WA6IQH]ejn690
+R2
+In03H9_WPcK7Of<fgbng`:0
+R3
+R23
+R24
+R25
+!i122 9
+L0 1233 954
+R8
+R9
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 0
+R13
+R0
+n@number@cnt_3
+vNumberCnt_4
+R22
+!i10b 1
+!s100 ecc6BIL7Kf6WTiOE1H]Xk3
+R2
+IVCMA@9De87jdTd?m[cZal3
+R3
+R23
+R24
+R25
+!i122 9
+L0 2189 261
+R8
+R9
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 0
+R13
+R0
+n@number@cnt_4
+vNumberCnt_5
+R22
+!i10b 1
+!s100 T<CWcO0`hV4R29]TeC:LL1
+R2
+IXVYP>7LW[FmHaL@`4KM0=1
+R3
+R23
+R24
+R25
+!i122 9
+L0 2452 1000
+R8
+R9
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 0
+R13
+R0
+n@number@cnt_5
+vNumberCnt_6
+R22
+!i10b 1
+!s100 @O>hFaeQOm7;j:6CoHI`]3
+R2
+Ikh@gc5f?ZiK2`<c9zZABZ3
+R3
+R23
+R24
+R25
+!i122 9
+L0 3454 328
+R8
+R9
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 0
+R13
+R0
+n@number@cnt_6
+vPictureROM
+R22
+!i10b 1
+!s100 ceZN@iV5<R]S;8G]V_<152
+R2
+I8=3R5Xnl[n2@`ia??iM`S0
+R3
+Z29 w1713429016
+Z30 8D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/PictureROM/PictureROM_sim_netlist.v
+Z31 FD:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/PictureROM/PictureROM_sim_netlist.v
+!i122 10
+L0 17 70
+R8
+R9
+r1
+!s85 0
+31
+R26
+Z32 !s107 D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/PictureROM/PictureROM_sim_netlist.v|
+Z33 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.srcs/sources_1/ip/PictureROM/PictureROM_sim_netlist.v|
+!i113 0
+R13
+R0
+n@picture@r@o@m
+vPictureROM_dist_mem_gen_v8_0_13
+R22
+!i10b 1
+!s100 NHJJceQI9^_mBNK6bH5[J1
+R2
+I0k23;og?LjE[fBCZCSBTX0
+R3
+R29
+R30
+R31
+!i122 10
+L0 99 122
+R8
+R9
+r1
+!s85 0
+31
+R26
+R32
+R33
+!i113 0
+R13
+R0
+n@picture@r@o@m_dist_mem_gen_v8_0_13
+vPictureROM_dist_mem_gen_v8_0_13_synth
+R22
+!i10b 1
+!s100 LlG=a_faL]L5ThllTcRkO0
+R2
+InThzV_n@^[7e[^XSg?V;81
+R3
+R29
+R30
+R31
+!i122 10
+L0 223 21
+R8
+R9
+r1
+!s85 0
+31
+R26
+R32
+R33
+!i113 0
+R13
+R0
+n@picture@r@o@m_dist_mem_gen_v8_0_13_synth
+vPictureROM_rom
+R22
+!i10b 1
+!s100 LA>TMnJ>oMgY@RbSQ]I8B3
+R2
+IO7SXe34V=M=nfj<8^z0kj0
+R3
+R29
+R30
+R31
+!i122 10
+L0 246 24713
+R8
+R9
+r1
+!s85 0
+31
+R26
+R32
+R33
+!i113 0
+R13
+R0
+n@picture@r@o@m_rom
+vsyncGenarator
+R22
+!i10b 1
+!s100 _d?idKC1^?`VENSjiVQZ`2
+R2
+IZ4BWLVW_`YGTG2HzM5L`L3
+R3
+R23
+8D:/StudyRepository/SystemDesignLab/IPCore/src/syncGenarator.v
+FD:/StudyRepository/SystemDesignLab/IPCore/src/syncGenarator.v
+!i122 8
+L0 5 58
+R8
+R9
+r1
+!s85 0
+31
+R26
+!s107 D:/StudyRepository/SystemDesignLab/IPCore/src/syncGenarator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/IPCore/src/syncGenarator.v|
+!i113 0
+R13
+R0
+nsync@genarator
+vTMDSencode
+R22
+!i10b 1
+!s100 b=;1<]EHKRPgcb1giBDl42
+R2
+I:25`NHb292nm3n0=o2hzT1
+R3
+R23
+R24
+R25
+!i122 9
+L0 3784 694
+R8
+R9
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 0
+R13
+R0
+n@t@m@d@sencode

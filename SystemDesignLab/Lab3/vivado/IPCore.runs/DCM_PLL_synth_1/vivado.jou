@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Apr 18 16:36:19 2024
+# Process ID: 12024
+# Current directory: D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.runs/DCM_PLL_synth_1
+# Command line: vivado.exe -log DCM_PLL.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DCM_PLL.tcl
+# Log file: D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.runs/DCM_PLL_synth_1/DCM_PLL.vds
+# Journal file: D:/StudyRepository/SystemDesignLab/IPCore/vivado/IPCore.runs/DCM_PLL_synth_1\vivado.jou
+#-----------------------------------------------------------
+source DCM_PLL.tcl -notrace

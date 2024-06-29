@@ -1,0 +1,137 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1710400713
+V]Llj]keAVj9YoihONb5a10
+04 19 4 work FlowingWateLight_tb fast 0
+=1-2c6dc1a1395c-65f2a4c9-149-3c24
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vcounter_n
+Z1 !s110 1710400370
+!i10b 1
+!s100 I68mL46Z_CM<Xg0HVNH]>0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IgP3Jf38NT?3I0eBS6_CMS3
+Z3 dD:/StudyRepository/SystemDesignLab/FlowingWaterLight/sim
+Z4 w1708389393
+8D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_n.v
+FD:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_n.v
+!i122 19
+L0 5 18
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z7 !s108 1710400370.000000
+!s107 D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_n.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_n.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vcounter_up_dn
+R1
+!i10b 1
+!s100 kaM^gJcVWf`5ZVj=z`ZNH0
+R2
+Ib]TSj^SkWW2];Cb_E>9UD2
+R3
+R4
+8D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_up_down.v
+FD:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_up_down.v
+!i122 20
+L0 6 15
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_up_down.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/counter_up_down.v|
+!i113 0
+R8
+R0
+vdecode
+R1
+!i10b 1
+!s100 f^JUCH>6J<6J<B=MlUbiz0
+R2
+IX545IG:3D][G0Gi3j8<bM2
+R3
+w1709802513
+8D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/decode.v
+FD:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/decode.v
+!i122 21
+L0 4 17
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/decode.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/decode.v|
+!i113 0
+R8
+R0
+vFlowingWateLight_tb
+R1
+!i10b 1
+!s100 5c@jdZDSMNT`G^C9Mm@N63
+R2
+I@^2Z6A2GhE^o5KgMk^UBO1
+R3
+R4
+8D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight_tb.v
+FD:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight_tb.v
+!i122 23
+L0 6 19
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight_tb.v|
+!i113 0
+R8
+R0
+n@flowing@wate@light_tb
+vFlowingWaterLight
+R1
+!i10b 1
+!s100 BMP9_m2AY>QNK]dQj1STl2
+R2
+IR@l]mn::@F=LmUUcIc9fK1
+R3
+w1709801211
+8D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight.v
+FD:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight.v
+!i122 22
+L0 1 18
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/StudyRepository/SystemDesignLab/SourceProgram_2024/SourceProgram/lab1_2_FlowingWaterLight/src/FlowingWaterLight.v|
+!i113 0
+R8
+R0
+n@flowing@water@light

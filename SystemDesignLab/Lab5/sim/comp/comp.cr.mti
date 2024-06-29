@@ -1,0 +1,15 @@
+D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v {1 {vlog -work comp -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comp
+
+Top level modules:
+	comp
+
+} {} {}} D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp_tb.v {1 {vlog -work comp -vopt -stats=none D:/StudyRepository/SystemDesignLab/CombinatinalCircuit/src/comp/comp_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comp_tb
+
+Top level modules:
+	comp_tb
+
+} {} {}}

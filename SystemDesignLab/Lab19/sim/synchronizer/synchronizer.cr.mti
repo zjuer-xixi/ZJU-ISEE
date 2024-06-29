@@ -1,0 +1,22 @@
+D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module synchronizer
+
+Top level modules:
+	synchronizer
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/dffr.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/dffr.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module dffr
+
+Top level modules:
+	dffr
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer_tb.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/synchronizer/synchronizer_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module synch_tb
+
+Top level modules:
+	synch_tb
+
+} {} {}}

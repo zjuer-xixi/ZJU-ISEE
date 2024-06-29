@@ -1,0 +1,85 @@
+D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/counter.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module counter_n
+
+Top level modules:
+	counter_n
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_rom.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/song_reader/song_rom.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module song_rom
+
+Top level modules:
+	song_rom
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/addr_process.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/addr_process.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module addr_process
+
+Top level modules:
+	addr_process
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/beat_timer.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/beat_timer.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module timer
+
+Top level modules:
+	timer
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module music_player_tb_v
+
+Top level modules:
+	music_player_tb_v
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dds.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module dds
+
+Top level modules:
+	dds
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/synchronizer.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module synchronizer
+
+Top level modules:
+	synchronizer
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/full_adder.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/full_adder.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/dffr.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module dffr
+
+Top level modules:
+	dffr
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/sine_rom.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/dds/sine_rom.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module sine_rom
+
+Top level modules:
+	sine_rom
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/frequency_rom.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/note_player/frequency_rom.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module frequency_rom
+
+Top level modules:
+	frequency_rom
+
+} {} {}} D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player.v {1 {vlog -work work -vopt -stats=none D:/StudyRepository/SystemDesignLab/Lab19/src/music_player/music_player.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module music_player
+
+Top level modules:
+	music_player
+
+} {} {}}
