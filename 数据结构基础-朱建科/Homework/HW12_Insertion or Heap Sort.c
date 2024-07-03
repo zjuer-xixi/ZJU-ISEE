@@ -83,9 +83,3 @@ void PercDown(int a[], int i, int n) {
 	}
 	a[i] = tmp;
 }
-
-
-
-
-
-
